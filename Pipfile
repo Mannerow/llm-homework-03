@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 sentence-transformers = "==2.7.0"
 pandas = "*"
+elasticsearch = "*"
 
 [dev-packages]
 
