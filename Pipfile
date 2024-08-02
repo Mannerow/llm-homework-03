@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+sentence-transformers = "==2.7.0"
 
 [dev-packages]
 
